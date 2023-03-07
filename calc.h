@@ -27,3 +27,5 @@ double calculation(double price, int enrollment, string required, string book){
     return cost;
 }
 #endif
+
+// this is just a place holder, the code should fully work on the main cpp file
